@@ -6,6 +6,12 @@ The next planet is Jupiter.
 a new crazy change to mars
 
 Now how about pluto?
+<<<<<<< HEAD
 there is nothing more to know about mars.
 
 I get more and more confused. To many changes make me crazy
+
+There is nothing more to know about mars.
+
+But there are plenty of things to learn about Venus!
+
